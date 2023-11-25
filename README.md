@@ -6,22 +6,21 @@
 
 </div>
 
-## 🛠 Built With <a name="built-with"></a>
-JavaScript
+## 🛠 Built With <a name="built-with">JavaScript</a>
+
 
 ### A function named *showNumber* is defined  
-This function takes two parameters: *number* and *callback*.
-It then calls the *callback* function, passing the *number* as an argument. 
-The purpose of this function is to execute a *callback* function with a given *number*.
+ It takes a single argument, which is expected to be a **callback** function. <br> 
+ Inside the function, a variable number is assigned the value **123**. <br>
+ Then, the **callback** function is invoked with number as an argument.
 
-The number *123* is passed and an anonymous callback function as arguments to *showNumber*. 
-The anonymous callback function takes a parameter named result and logs a message to the console,
-including the value of result. So, in this case, it will log "The number is: *123*" to the console.
+The **showNumber** function is used by passing an anonymous **callback** function as an argument.<br> 
+This **callback** function takes a parameter ***result***, which will receive the value of number (123 in this case). <br>
+Inside the callback, it logs a message to the console, concatenating the result. 
 
-Finally, the *showNumber* function is exported using *module.exports*. This makes the *showNumber* function available for use in other files. 
-
-Exporting the Function
-The showNumber function is exported using module.exports, making it available for use in other files.
+## 🛠 Exporting the Function:
+  Finally, the ***showNumber*** function is exported using ***module.exports***. <br>
+  This makes the ***showNumber*** function available for use in other files.
 
 ## 📝 License <a name="license"></a>
 
