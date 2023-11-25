@@ -1,6 +1,6 @@
 {
   "name": "callback-number",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "show a number",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,9 @@
     "url": "git+https://github.com/Asad-Zaidi/Callback-ShowNumber.git"
   },
   "keywords": [
-    "NPM",
-    "Publish"
+    "ShowNumber",
+    "Callback-ShowNumber"
+    "callback-number"
   ],
   "author": "Syed Asad Jamil",
   "license": "ISC",
