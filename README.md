@@ -6,6 +6,15 @@
 
 </div>
 
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **SYED ASAD JAMIL**
+
+- GitHub: [Asad-Zaidi](https://github.com/Asad-Zaidi)
+- NPM: [asad-zaidi](https://www.npmjs.com/~asad-zaidi)
+
+
 ## 🛠 Built With<a name="built-with">: JavaScript</a>
 
 
