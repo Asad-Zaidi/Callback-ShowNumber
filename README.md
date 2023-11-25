@@ -22,6 +22,10 @@ Inside the callback, it logs a message to the console, concatenating the result.
   Finally, the ***showNumber*** function is exported using ***module.exports***. <br>
   This makes the ***showNumber*** function available for use in other files.
 
+## 🚀 NPM Package <a name="NPM Package"></a>
+
+- [NPM Package](https://www.npmjs.com/package/callback-number)
+
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
