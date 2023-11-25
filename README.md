@@ -6,7 +6,7 @@
 
 </div>
 
-## 🛠 Built With <a name="built-with">JavaScript</a>
+## 🛠 Built With <a name="built-with">: JavaScript</a>
 
 
 ### A function named *showNumber* is defined  
