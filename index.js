@@ -1,8 +1,9 @@
-function showNumber(number, callback) {
+function showNumber(callback) {
+    var number = 123;
     callback(number);
 }
-showNumber(123, function (result) {
+showNumber(function (result) {
     console.log("The Number is : " + result);
 }); 
 
-module.exports = showNumber;
+module.exports = showNumber;    
